@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android App</string>
+
+    <string name="hint_nombre">Nombre Completo*</string>
+    <string name="hint_fecha">01/01/1900</string>
+    <string name="hint_telefono">Telefono*</string>
+    <string name="hint_email">Correo Electronico*</string>
+    <string name="hint_descripcion">Descripcion Contacto*</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_editar">Editar Datos</string>
+    <string name="titulo_fecha_n">Fecha de Nacimiento*</string>
+    <string name="text_confirmar_datos">Confirmar Datos</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pfechan">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdesripcion">descripcion</string>
+
+</resources>
